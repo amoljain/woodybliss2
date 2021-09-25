@@ -27,20 +27,13 @@ const Dashboard = () => (
             xl={6}
             xs={12}
           >
-            <iframe
-              title="video"
-              type="text/html"
-              frameBorder="0"
-              height={395}
-              src="//video.nest.com/embedded/live/0ZyoxI?autoplay=1"
-              allowFullScreen
-              style={{
-                display: 'flex',
-                flex: '1',
-                borderRadius: 5,
-                width: '100%'
-              }}
-            />
+            <iframe type="text/html" frameBorder="0" width="480" height="395"
+                    src="//video.nest.com/embedded/live/0ZyoxI?autoplay=1" allowFullScreen style={{
+              display: 'flex',
+              flex: '1',
+              borderRadius: 5,
+              width: '100%'
+            }}></iframe>
           </Grid>
           <Grid
             item
