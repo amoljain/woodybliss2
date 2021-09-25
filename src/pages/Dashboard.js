@@ -27,13 +27,8 @@ const Dashboard = () => (
             xl={6}
             xs={12}
           >
-            <iframe type="text/html" frameBorder="0" width="480" height="395"
-                    src="//video.nest.com/embedded/live/0ZyoxI?autoplay=1" allowFullScreen style={{
-              display: 'flex',
-              flex: '1',
-              borderRadius: 5,
-              width: '100%'
-            }}></iframe>
+            <Iframe type="text/html" frameBorder="0" width="480" height="395"
+                    src="//video.nest.com/embedded/live/0ZyoxI?autoplay=1" allowFullScreen></Iframe>
           </Grid>
           <Grid
             item
@@ -49,5 +44,18 @@ const Dashboard = () => (
     </Box>
   </>
 );
+
+const Iframe = (props) => {
+    return(
+      <div>
+        <iframe src={props.src} height={props.height} width={props.width} style={{
+          display: 'flex',
+          flex: '1',
+          borderRadius: 5,
+          width: '100%'
+        }}/>
+      </div>
+    )
+  };
 
 export default Dashboard;
