@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9455299-ee46-419b-b1cb-ae84154da162" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/__mocks__/customers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__mocks__/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DashboardLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DashboardNavbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DashboardSidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GlobalStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Logo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MainLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MainNavbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/account/AccountProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/account/AccountProfileDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/customer/CustomerListResults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/customer/CustomerListToolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/Budget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/LatestOrders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/LatestProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/Sales.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/TasksProgress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/TotalCustomers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/TotalProfit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/TrafficByDevice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/WoodyBlissWeather.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/product/ProductCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/product/ProductListToolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/settings/SettingsNotifications.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/settings/SettingsPassword.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/Facebook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/Google.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Account.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/CustomerList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ProductList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/getInitials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yblJ5xyR3nqlasnG84uXldjyLF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9455299-ee46-419b-b1cb-ae84154da162" name="Default Changelist" comment="" />
+      <created>1632528093469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632528093469</updated>
+      <workItem from="1632528094911" duration="1364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
